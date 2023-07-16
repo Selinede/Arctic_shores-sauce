@@ -1,14 +1,14 @@
 # Project Title - Arctic_shores-sauce
 
- Test
+ **Test**
 
  Verify Login and Purchase Functionality of Sauce-Demo Webpage
 
- Project Description
+ **Project Description**
 
  The testing of a login/purchase webpage's functionality involves verifying various scenarios. These include testing the successful login process using valid credentials, checking the handling of failed login attempts with invalid credentials, validating the accurate display of error messages for such invalid logins, and conducting a comprehensive end-to-end test of the purchase journey. By performing these tests, we ensure that users can log in successfully, are prevented from unauthorized access, receive helpful error messages, and can seamlessly complete a purchase from start to finish. These tests aim to ensure the smooth functioning of the login and purchase features, enhancing the overall user experience and identifying any potential issues or bugs that need attention.
 
- Installation
+ **Installation**
 
  To use this Project, follow the steps below
 
@@ -102,7 +102,7 @@
 
  19. You should see the sauce-demo webpage openly displayed, you can see your logs, use the cypress locator, and debug your test if need be.
 
- Features
+ **Features**
 
  1. Login: Provides a secure login mechanism for users to authenticate themselves using their credentials.
 
@@ -117,13 +117,14 @@
  6. Error Handling: Includes appropriate error handling and validation to handle scenarios such as incorrect login credentials, users checkout registration.
 
 
- Contribution
+ **Contribution**
 
  git init
  git status
- git add --all
- git branch -M main
- git push u origin main
+ git add .
+ git commit -m "Add new feature"
+ git push origin main
+
 
 
 
