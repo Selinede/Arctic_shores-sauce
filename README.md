@@ -117,13 +117,15 @@
  6. Error Handling: Includes appropriate error handling and validation to handle scenarios such as incorrect login credentials, users checkout registration.
 
 
- **Contribution**
+ ** Git Contribution**
 
- git init
- git status
- git add .
- git commit -m 
- git push origin main
+ 1. git init
+ 2. git status
+ 3. git add .
+ 4. git commit -m "Updated files with new changes"
+ 5. git pull origin main
+ 6. git push origin main
+
 
 
 
