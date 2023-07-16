@@ -106,7 +106,7 @@
 
  **Features**
 
- 1. Login Text Feilds: Provides a secure login mechanism for users to authenticate themselves using their credentials.
+ 1. Login Text Fields: Provides a secure login mechanism for users to authenticate themselves using their credentials.
 
  2. Product Catalog: Displays a catalog of available products with details such as descriptions, prices, and images.
 
