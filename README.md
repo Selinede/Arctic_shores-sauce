@@ -12,7 +12,7 @@
 
 Visual Studio Code.
 
- **Installation**
+ **Cypress Installation**
 
  The following steps was taken to actualize this Test. They are :
 
