@@ -13,32 +13,34 @@
  The following steps was taken to actualize this Test. They are :
 
  1. Created a Project on Github Repository titled Arctic_shores-sauce
+    
+ 3. Initialized my local enviroment using the command git init
 
- 2. Cloned the repository to my local machine using the following command: git clone https://github.com/Selinede/Arctic_shores-sauce.git
+ 4. Cloned the repository to my local machine using the following command: git clone https://github.com/Selinede/Arctic_shores-sauce.git
 
- 3. Navigate to the project's directory: cd Arctic_Shores-Sauce
+ 5. Navigate to the project's directory: cd Arctic_shores-sauce
 
- 4. Install the dependencies by running the following command: npm install cypress --save-dev
+ 6. Install the dependencies by running the following command: npm install cypress --save-dev
 
- 5. npx cypress open
+ 7. npx cypress open
 
- 6. Click on the “E2E Testing” button on the left to get started.
+ 8. Click on the “E2E Testing” button on the left to get started.
 
- 7. The following Configuration files are configured by Cypress so you don't need to do anything, just click on continue button at the bottom.These files are;
+ 9. The following Configuration files are configured by Cypress so you don't need to do anything, just click on continue button at the bottom.These files are;
  a. config.ts
  b. e2e.ts
  c. command.ts
  d. example.json
 
- 8. Choose a Browser of choice. Google Chrome and Safari was used for this Project
+ 10. Choose a Browser of choice. Google Chrome and Safari was used for this Project
 
- 9. Click on the “Create new spec” button.
+ 11. Click on the “Create new spec” button.
 
- 10. Rename file 'sauce_valid_login-functionality.cy.js', then click 'Create Spec
+ 12. Rename file 'sauce_valid_login-functionality.cy.js', then click 'Create Spec
 
- 11. Then click on the “Okay, run the spec” button.
+ 13. Then click on the “Okay, run the spec” button.
 
- 12. Cypress will then run our spec against their Kitchen Sink sample application.
+ 14. Cypress will then run our spec against their Kitchen Sink sample application.
 
  Now that I have created our spec file, I need to update it for our course application.
 
@@ -100,7 +102,7 @@
 
  18. Next click on the “sauce_valid_login-functionality.cy.js” spec file.
 
- 19. You should see the sauce-demo webpage openly displayed, you can see your logs, use the cypress locator, and debug your test if need be.
+ 19. The sauce-demo webpage is openly displayed, and the logs are visible .
 
  **Features**
 
@@ -120,11 +122,12 @@
  ** Git Contribution**
 
  1. git init
- 2. git status
- 3. git add .
- 4. git commit -m "Updated files with new changes"
- 5. git pull origin main
- 6. git push origin main
+ 2. git clone
+ 3. git status
+ 4. git add .
+ 5. git commit -m "Updated files with new changes"
+ 6. git pull origin main
+ 7. git push origin main
 
 
 
