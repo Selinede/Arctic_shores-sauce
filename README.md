@@ -14,11 +14,9 @@
  functioning of the login and purchase features, enhancing the overall user experience and identifying any potential issues or bugs 
  that need attention.
 
- **IDE**
+** IDE - Visual Studio Code**
 
- Visual Studio Code.
-
-
+ 
  The following steps was taken to actualize this Test. They are :
 
  **Step 1: Create a New Project on Github**
