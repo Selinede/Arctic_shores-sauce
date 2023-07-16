@@ -10,7 +10,7 @@
 
  **Installation**
 
- To use this Project, follow the steps below
+ The following steps was taken to actualize this Test. They are :
 
  1. Created a Project on Github Repository titled Arctic_shores-sauce
 
