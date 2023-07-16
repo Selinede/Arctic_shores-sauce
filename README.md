@@ -8,6 +8,10 @@
 
  This testing is for Sauce-demo login/purchase webpage's functionality, it involves verifying various scenarios. These include testing the successful login process using valid credentials, checking the handling of failed login attempts with invalid credentials, validating the accurate display of error messages for such invalid logins, and conducting a comprehensive end-to-end test of the purchase journey. By performing these tests, we ensure that users can log in successfully, are prevented from unauthorized access, receive helpful error messages, and can seamlessly complete a purchase from start to finish. These tests aim to ensure the smooth functioning of the login and purchase features, enhancing the overall user experience and identifying any potential issues or bugs that need attention.
 
+**IDE**
+
+Visual Studio Code.
+
  **Installation**
 
  The following steps was taken to actualize this Test. They are :
