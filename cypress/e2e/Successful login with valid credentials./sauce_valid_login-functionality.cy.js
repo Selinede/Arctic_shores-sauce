@@ -3,8 +3,10 @@ describe('sauce login page', () => {
 
   it('Verify valid login credentials', () => {
 
-    //The below command (cy.visit) and url allows you to start your test by navigating to a
-    //specific URL or webpage, in this case, our url is "https://www.saucedemo.com".
+    //The below command (cy.visit) and the expression ('/') instructs Cypress to navigate to
+      //the root URL of the application to start your test. In this case, the url is
+      //"https://www.saucedemo.com" which is already inserted in the cypress.config.js file.
+
 
     cy.visit('/');
 
