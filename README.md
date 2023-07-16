@@ -30,7 +30,7 @@
  c. command.ts
  d. example.json
 
- 8. Choose a Browser of choice. Google Chrome was used for this Project
+ 8. Choose a Browser of choice. Google Chrome and Safari was used for this Project
 
  9. Click on the “Create new spec” button.
 
@@ -40,7 +40,7 @@
 
  12. Cypress will then run our spec against their Kitchen Sink sample application.
 
- Now that I have created our spec file, we need to update it for our course application.
+ Now that I have created our spec file, I need to update it for our course application.
 
           Breaking down the home spec file
 
@@ -104,7 +104,7 @@
 
  **Features**
 
- 1. Login: Provides a secure login mechanism for users to authenticate themselves using their credentials.
+ 1. Login Text Feilds: Provides a secure login mechanism for users to authenticate themselves using their credentials.
 
  2. Product Catalog: Displays a catalog of available products with details such as descriptions, prices, and images.
 
