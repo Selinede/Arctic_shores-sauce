@@ -122,7 +122,7 @@
  git init
  git status
  git add .
- git commit -m "Add new feature"
+ git commit -m 
  git push origin main
 
 
